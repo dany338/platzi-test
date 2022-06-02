@@ -1,3 +1,15 @@
+- Hola mundo en React
+- Consultar un API público
+- Listar los elementos del API
+    - **Bonus**: que maneje la paginación del API
+- Filtrar los elementos del API por determinada propiedad
+- Crear un layout con Stylus que permita tener los elementos distribuidos en:
+    - 1 Col Mobile
+    - 2 Col Tablet
+    - 4 Desktop
+- Preguntar al final cómo haría testing.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
